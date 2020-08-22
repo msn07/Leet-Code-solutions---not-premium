@@ -21,7 +21,7 @@ Explanation: After calling your function, the input array is modified to: [1,2,3
 Note:
 
 1 <= arr.length <= 10000
-0 <= arr[i] <= 9/*
+0 <= arr[i] <= 9*/
 
 
 //Solution use additional space
